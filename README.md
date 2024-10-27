@@ -1,2 +1,2 @@
 # CleanBlog
-sebnem deneme
+
